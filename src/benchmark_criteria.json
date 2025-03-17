@@ -1,0 +1,28 @@
+{
+    "Required Skills": {
+      "Technical Skills": ["Python", "Machine Learning", "Deep Learning", "Flask", "AI", "Computer Vision", "NLP", "TensorFlow", "PyTorch"],
+      "Soft Skills": ["Communication", "Teamwork", "Problem-Solving", "Critical Thinking"]
+    },
+    "Experience Criteria": {
+      "Minimum Years of Experience": 2,
+      "Relevant Work Experience": ["AI Engineer", "Machine Learning Engineer", "Data Scientist", "Software Developer"],
+      "Relevant Internships": ["AI Research", "ML Internship", "Software Development Internship"]
+    },
+    "Project Criteria": {
+      "Minimum Number of Projects": 2,
+      "Highly Relevant Projects": ["AI Chatbot", "Brain Tumor Classification", "Predictive Analytics", "Generative AI Models"],
+      "Key Project Skills": ["TensorFlow", "PyTorch", "Flask", "OpenCV"]
+    },
+    "Education Criteria": {
+      "Relevant Degrees": ["Computer Science", "Artificial Intelligence", "Data Science", "Machine Learning"],
+      "Minimum Degree Level": "Bachelor's"
+    },
+    "Scoring Weights": {
+      "Skills": 30,
+      "Work Experience": 25,
+      "Internships": 15,
+      "Projects": 20,
+      "Education": 10
+    }
+}
+  
